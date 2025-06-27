@@ -12,16 +12,15 @@ built using the Page Object Model (POM) design pattern.
 Test cases were designed and executed using TestNG, managed via Maven, and results were logged with detailed reporting.
 
 🛠 Tools & Technologies Used:
-Category	Tools / Tech
-Programming Lang	Java
-Testing Framework	TestNG
-Automation Tool	Selenium WebDriver
-Build Tool	Maven
-Design Pattern	Page Object Model (POM)
-Reporting Tool	Extent Reports (or Allure)
-Browser Driver	ChromeDriver
-IDE	IntelliJ / Eclipse
-Others	Log4j (if logging used), Git
+Category	      Tools / Tech
+Programming Language 	Java
+Testing Framework	 TestNG
+Automation Tool	 Selenium WebDriver
+Build Tool	 Maven
+Design Pattern 	Page Object Model (POM)
+Reporting Tool 	Extent Reports (or Allure)
+Browser Driver 	ChromeDriver
+IDE	IntelliJ /  SpringToolsSuit
 
 🔍 Module-Wise Logs / Features Explanation:
 ✅ 1. Test Setup Logs
