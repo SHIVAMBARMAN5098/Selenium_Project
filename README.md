@@ -7,7 +7,8 @@ Integrated Maven for build, and Extent Reports for detailed test logs with scree
 Logged all test events for traceability and easier debugging.
 
 🧪 Project Overview:
-This project involves developing an automated test suite for a sample e-commerce website using Selenium WebDriver with Java, built using the Page Object Model (POM) design pattern.
+This project involves developing an automated test suite for a sample e-commerce website using Selenium WebDriver with Java,
+built using the Page Object Model (POM) design pattern.
 Test cases were designed and executed using TestNG, managed via Maven, and results were logged with detailed reporting.
 
 🛠 Tools & Technologies Used:
@@ -36,7 +37,7 @@ pgsql
 Copy
 Edit
 INFO: Browser launched successfully.
-INFO: Navigated to https://example.com
+INFO: Navigated to https://www.naaptol.com/
 ✅ 2. Login Module
 Tested valid and invalid logins.
 
